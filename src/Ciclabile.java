@@ -34,5 +34,7 @@ public class Ciclabile {
         }   
 
         num[num.length - 1] = newNumber;
+
+        numeri = num;
     }
 }
